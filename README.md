@@ -1,20 +1,33 @@
-# flutter-GigaMax
+# flutter-GigaMax  (Users App)
+
+Flutter E.commerce app . let users shop millions of products and manage  orders. Browse, shop by department, compare prices, read reviews, share products with friends, and check the status of  orders.
 
 
-Flutter Food Ordering App made with Dart
+# flutter-GigaMax  (Seller App ) 
+  A Smart App  sellers to receive and handle orders fast from the mobile.
 
-
-### Features:
+### Features: (Users App)
 1. Login, Logout and Signup.
 2. Manage and personalize your account.
-3. Beautiful UI with Carousel and nice Color combinations.
-4. Offline Capabilities.
-5. Navigation between diffrent screens and categories using Provider
-6. Add items to your wishList.
-7. Edit and delete items from wishLists
-7. Add items to your shopping cart and save it for later.
+3. Search, Browse, and Buy latest offers.
+4. Save products to your wish list.
+5. Edit and delete items from wishLists
+6. Create Custom Wishlists. 
+7. rating and review the products.
+7. Add items to your shopping cart.
 8. Manage your cart , edit and delete your orders list.
-9. 
+9. Manage your address book
+10. Track Orders
+
+### Features: (Seller App)
+1. seller Login.
+2. View and fully control Orders.
+3. Change order states.
+4. Edit Products & Control Items Stock.
+5. Update  Profile Data for seller.
+6. dynamic help links allows sellers to open help links that are configured by main company.
+6. receive General push notification. 
+
 
 ### ScreenShots:
 
@@ -24,3 +37,5 @@ Flutter Food Ordering App made with Dart
 
 <img src="imagess/7.png" width="262" height="462"> <img src="imagess/8.png" width="262" height="462">
 
+
+ 
