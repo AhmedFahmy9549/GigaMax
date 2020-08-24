@@ -17,6 +17,7 @@ Flutter E.commerce app . let users shop millions of products and manage  orders.
 7. Add items to your shopping cart.
 8. Manage your cart , edit and delete your orders list.
 9. Manage your address book
+10. payemnt integration with we accept
 10. Track Orders
 
 ### Features: (Seller App)
