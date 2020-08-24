@@ -1,9 +1,9 @@
-# flutter-GigaMax  (Users App)
+# GigaMax  (Users App)
 
 Flutter E.commerce app . let users shop millions of products and manage  orders. Browse, shop by department, compare prices, read reviews, share products with friends, and check the status of  orders.
 
 
-# flutter-GigaMax  (Seller App ) 
+# GigaMax  (Seller App ) 
   A Smart App  sellers to receive and handle orders fast from the mobile.
 
 ### Features: (Users App)
