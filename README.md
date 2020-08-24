@@ -32,11 +32,13 @@ Flutter E.commerce app . let users shop millions of products and manage  orders.
 
 ### ScreenShots:
 
-<img src="imagess/1.png" width="262" height="462"> <img src="imagess/2.png" width="262" height="462"> <img src="imagess/3.png" width="262" height="462"> 
+<img src="images/1.png" width="262" height="462"> <img src="images/2.png" width="262" height="462"> <img src="images/3.png" width="262" height="462"> 
 
-<img src="imagess/4.png" width="262" height="462"> <img src="imagess/5.png" width="262" height="462"> <img src="imagess/6.png" width="262" height="462">
+<img src="images/4.png" width="262" height="462"> <img src="images/5.png" width="262" height="462"> <img src="images/6.png" width="262" height="462">
 
-<img src="imagess/7.png" width="262" height="462"> <img src="imagess/8.png" width="262" height="462">
+<img src="images/7.png" width="262" height="462"> <img src="imagess/8.png" width="262" height="462"> <img src="imagess/9.png" width="262" height="462">
+
+<img src="imagess/10.png" width="262" height="462"> <img src="imagess/11.png" width="262" height="462"> <img src="imagess/12.png" width="262" height="462">
 
 
  
